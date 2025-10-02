@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: gcn
+Version: 1.0
+Summary: Graph Convolutional Networks in Tensorflow
+Home-page: https://tkipf.github.io
+Download-URL: https://github.com/tkipf/gcn
+Author: Thomas Kipf
+Author-email: thomas.kipf@gmail.com
+License: MIT
+License-File: LICENCE
